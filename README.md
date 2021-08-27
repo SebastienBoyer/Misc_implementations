@@ -1,6 +1,6 @@
 # Misc_implementations
 
-Those are implementations of algorithm I was not really familiar with but turned out to be fun, usefull and a good way to learn new stats or framework. So those notebook are a summary of what I understood. Again they should not be used like a ready to go pipeline.
+Those are implementations of algorithms I was not really familiar with but turned out to be fun, usefull and a good way to learn new stats or framework. So those notebooks are a summary of what I understood. Again they should not be used like a ready to go pipeline.
 
 - **Doubly robust estimation of continuous treatment effects for causal inference**. There are some libraries out there in python to do causal inferences when the treatment variable is categorical but not when it is continuous and not for the doubly robust estimation which can be interesting when you don't have a lot of data and matching is not possible... So I implemented one in python from a publication that solves the problem mathematically and proposed also an implementation in R.
 
